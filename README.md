@@ -1,6 +1,8 @@
 # SVG Logo Maker
 
-Command line tool to generate an svg logo and write it to file.
+## Description
+
+This repository is where I created an SVG Logo Maker as an assignment for a coding bootcamp. Key concepts practiced with this assignment include: test driven development, class constructors, promises, fs writefile, importing and exporting functions.
 
 ## Usage
 
@@ -9,7 +11,10 @@ Command line tool to generate an svg logo and write it to file.
 - Run `node index.js` to start the app.
   - Answer questions to generate a logo.
   - Logo will be written to `logo.svg` in the working directory.
-- Run tests with `npm run test`
+
+## Video
+
+https://drive.google.com/file/d/1W-bqEhlQx5TpFH7wqJ72BW7vO1GTQmtz/view
 
 ## References
 
